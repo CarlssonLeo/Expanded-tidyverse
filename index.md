@@ -7,5 +7,6 @@ This is a non-comprahensive list of R packages belonging to what I'd like to cal
 - [Tidymodels](https://www.tidymodels.org/), modelling using tidy principles
 - [Tidygraph](https://tidygraph.data-imaginist.com/), expanding the tidyverse to graph structured data
 - [TidyJSON](https://github.com/colearendt/tidyjson), for interacting with JSON-data
+- [Tidyverts](https://tidyverts.org/), a tidy way of working with time-series and forecasting
 
 Know another package that should be here? [Hit me up](https://github.com/CarlssonLeo/Expanded-tidyverse)! 
